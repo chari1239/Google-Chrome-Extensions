@@ -1,11 +1,13 @@
 # Google-Chrome-Extensions
 Google Chrome Extensions projects
 
-To all those developers or non-developers who make many bookmarks,this extension can be a needy for them.
+1.Bookmark Manager
 
-Sometimes we may not find the needed one at the necessary time.This extension will be a good help at that time.
+  To all those developers or non-developers who make many bookmarks,this extension can be a needy for them.
 
-This extension categories our bookmarks.
-We can new categories whenever we want.
-Add bookmarks to that category.
+  Sometimes we may not find the needed one at the necessary time.This extension will be a good help at that time.
+
+  This extension categories our bookmarks.
+  We can new categories whenever we want.
+  Add bookmarks to that category.
 
